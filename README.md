@@ -3,10 +3,10 @@
 This project is a simple React application that fetches and displays weather information using the AccuWeather API.
 
 ## Features
-- Search: Enter a city name to fetch current weather data.
-- Display: Show temperature, weather condition, and humidity.
-- Error Handling: Gracefully handle API errors and invalid city names.
-- Responsive: Designed to work on both desktop and mobile devices.
+- **Search:** Enter a city name to fetch current weather data.
+- **Display:** Show temperature, weather condition, and humidity.
+- **Error Handling:** Gracefully handle API errors and invalid city names.
+- **Responsive:** Designed to work on both desktop and mobile devices.
 
 ## Technologies Used
 - React
