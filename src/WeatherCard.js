@@ -9,10 +9,10 @@ const WeatherCard = ({ weatherData }) => {
         <h3 className="city">{cityName}</h3>
         <div className="temp-gauge">
           <div className="circle">
-            <div className="bar" style={{ transform: `rotate(${(temperature / 40) * 180}deg)` }}></div>
+            <div className="bar" style={{ transform: `rotate(${(temperature / 60) * 180}deg)` }}></div>
             <div className="cover">{temperature}°C</div>
           </div>
-        </div><br></br>
+        </div>
         <div className='info'>
         <div className='temp'><p className="temperature">{temperature}°C</p></div>
         <div className='ext'><p className="extra-info">Humidity: {humidity}%</p>
