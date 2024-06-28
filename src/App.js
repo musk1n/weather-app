@@ -26,7 +26,11 @@ function App() {
           apikey: API_KEY,
         }
       });
+<<<<<<< HEAD
       
+=======
+
+>>>>>>> 86d63f90050941f763c17b59f955c0328b2e6f2c
       const data = {
         cityName: response.data[0].LocalizedName,
         temperature: weatherResponse.data[0].Temperature.Metric.Value,

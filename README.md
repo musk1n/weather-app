@@ -1,6 +1,47 @@
-# Getting Started with Create React App
+# HOW'S THE SKY
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project is a simple React application that fetches and displays weather information using the AccuWeather API.
+
+## Features
+- **Search:** Enter a city name to fetch current weather data.
+- **Display:** Show temperature, weather condition, and humidity.
+- **Error Handling:** Gracefully handle API errors and invalid city names.
+- **Responsive:** Designed to work on both desktop and mobile devices.
+- **Related Background:** The background image changes according to the weather description.
+
+## Technologies Used
+- React
+- Axios
+- Tailwind CSS
+
+## Getting Started
+
+**PREREQUISITES**
+- Node.js installed on your local environment.
+
+To get started with the project, follow these steps:
+
+1. **Clone the repository:**
+
+   ```bash
+   git clone https://github.com/your_username/your_repo.git
+   cd your_repo
+
+2. **Install dependencies:**
+   (Using)
+   ```bash
+   npm install
+
+3. **Start server:**
+
+   ```bash
+   npm start
+
+## Screenshots
+![Screenshot 2024-06-28 135538](https://github.com/musk1n/weather-app/assets/151397097/05c83465-c869-4fdb-9801-dd1b38ad540d)
+![Screenshot 2024-06-28 135600](https://github.com/musk1n/weather-app/assets/151397097/e56fb323-858a-4159-acea-410fd74bc991)
+![Screenshot 2024-06-28 135633](https://github.com/musk1n/weather-app/assets/151397097/6dd88742-314c-4d33-a719-1d85d09fac4a)
+
 
 ## Available Scripts
 
@@ -39,32 +80,7 @@ Instead, it will copy all the configuration files and the transitive dependencie
 
 You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
 
 ### Deployment
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+This section has moved [here:](https://facebook.github.io/create-react-app/docs/deployment)
