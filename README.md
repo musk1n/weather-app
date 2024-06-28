@@ -7,6 +7,7 @@ This project is a simple React application that fetches and displays weather inf
 - **Display:** Show temperature, weather condition, and humidity.
 - **Error Handling:** Gracefully handle API errors and invalid city names.
 - **Responsive:** Designed to work on both desktop and mobile devices.
+- **Related Background:** The background image changes according to the weather description.
 
 ## Technologies Used
 - React
@@ -37,10 +38,9 @@ To get started with the project, follow these steps:
    npm start
 
 ## Screenshots
-![image](https://github.com/musk1n/weather-app/assets/151397097/bbbc2461-c49c-44d0-8b71-19e73d50cccf)
-![image](https://github.com/musk1n/weather-app/assets/151397097/a1d7545c-4795-488c-8969-567ccd225062)
-![image](https://github.com/musk1n/weather-app/assets/151397097/ef3b89b0-135f-4ace-b31f-4f34f1f05377)
-![image](https://github.com/musk1n/weather-app/assets/151397097/85c63a15-23a7-4a00-8734-1a844dd5488e)
+![Screenshot 2024-06-28 135538](https://github.com/musk1n/weather-app/assets/151397097/05c83465-c869-4fdb-9801-dd1b38ad540d)
+![Screenshot 2024-06-28 135600](https://github.com/musk1n/weather-app/assets/151397097/e56fb323-858a-4159-acea-410fd74bc991)
+![Screenshot 2024-06-28 135633](https://github.com/musk1n/weather-app/assets/151397097/6dd88742-314c-4d33-a719-1d85d09fac4a)
 
 
 ## Available Scripts
