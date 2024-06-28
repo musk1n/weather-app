@@ -52,18 +52,50 @@ function App() {
     if (!weatherData) return 'default-bg';
     switch (weatherData.weatherText.toLowerCase()) {
       case 'clear':
+      case 'sunny':
         return 'clear-bg';
       case 'cloudy':
       case 'some clouds':
       case 'mostly cloudy':
+      case 'partly cloudy':
         return 'cloudy-bg';
       case 'rain':
       case 'showers':
+      case 'shower':
         return 'rainy-bg';
       case 'snow':
+      case 'hail':
+      case 'sleet':
+      case 'cold':
+      case 'extreme cold':
+      case 'freezing rain':
         return 'snowy-bg';
       case 'thunderstorms':
+      case 'thunderstorm':
         return 'thunderstorm-bg';
+      case 'fog':
+      case 'light fog':
+      case 'heavy fog':
+      case 'mist':
+      case 'misty':
+      case 'drizzle':
+      case 'haze':
+      case 'smoke':
+        return 'fog-bg';
+      case 'dust':
+      case 'sandstorm':
+        return 'dust-bg';
+      case 'dust':
+      case 'sandstorm':          
+        return 'dust-bg';
+      case 'windy':
+      case 'blustery':
+        return 'windy-bg';
+      case 'hurricane':
+      case 'tropical storm':
+        return 'hurricane-bg';
+      case 'tornado':
+        return 'tornado-bg';
       default:
         return 'default-bg';
     }
