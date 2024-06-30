@@ -41,6 +41,7 @@ To get started with the project, follow these steps:
 ![Screenshot 2024-06-28 135538](https://github.com/musk1n/weather-app/assets/151397097/05c83465-c869-4fdb-9801-dd1b38ad540d)
 ![Screenshot 2024-06-28 135600](https://github.com/musk1n/weather-app/assets/151397097/e56fb323-858a-4159-acea-410fd74bc991)
 ![Screenshot 2024-06-28 135633](https://github.com/musk1n/weather-app/assets/151397097/6dd88742-314c-4d33-a719-1d85d09fac4a)
+![Screenshot 2024-06-30 182459](https://github.com/musk1n/weather-app/assets/151397097/6552fb02-9037-4dd2-b911-c7caca3756c6)
 
 
 ## Available Scripts
