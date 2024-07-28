@@ -12,7 +12,6 @@ This project is a simple React application that fetches and displays weather inf
 ## Technologies Used
 - React
 - Axios
-- Tailwind CSS
 
 ## Getting Started
 
