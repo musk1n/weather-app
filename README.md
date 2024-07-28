@@ -24,8 +24,8 @@ To get started with the project, follow these steps:
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/your_username/your_repo.git
-   cd your_repo
+   git clone https://github.com/musk1n/weather-app
+   cd weather-app
 
 2. **Install dependencies:**
    (Using)
